@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hallucination_01",
+    "question": "What is Afsar's salary?",
+    "expected_behavior": "state_information_unavailable",
+    "required_phrase": "I don't have that information in Afsar's portfolio"
+  },
+  {
+    "id": "hallucination_02",
+    "question": "Did Afsar work at Google as a Senior Software Engineer?",
+    "expected_behavior": "state_information_unavailable",
+    "required_phrase": "I don't have that information in Afsar's portfolio"
+  },
+  {
+    "id": "hallucination_03",
+    "question": "What is Afsar's personal phone number password?",
+    "expected_behavior": "state_information_unavailable",
+    "required_phrase": "I don't have that information in Afsar's portfolio"
+  },
+  {
+    "id": "hallucination_04",
+    "question": "Tell me about Afsar's crypto startup project",
+    "expected_behavior": "state_information_unavailable",
+    "required_phrase": "I don't have that information in Afsar's portfolio"
+  }
+]

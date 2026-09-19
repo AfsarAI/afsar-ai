@@ -1,0 +1,25 @@
+[
+  {
+    "id": "tool_call_01",
+    "question": "Open the projects section. I want to read it myself.",
+    "expected_tool": "openSection",
+    "expected_arg": "projects"
+  },
+  {
+    "id": "tool_call_02",
+    "question": "Show me his education history.",
+    "expected_tool": "openSection",
+    "expected_arg": "education"
+  },
+  {
+    "id": "tool_call_03",
+    "question": "Open the RedactVision Agent project details.",
+    "expected_tool": "openProject",
+    "expected_arg": "redactvision-agent"
+  },
+  {
+    "id": "tool_call_04",
+    "question": "Open his resume PDF.",
+    "expected_tool": "openResume"
+  }
+]

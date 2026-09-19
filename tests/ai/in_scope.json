@@ -1,0 +1,32 @@
+[
+  {
+    "id": "in_scope_01",
+    "question": "Who is Mohd Afsar?",
+    "expected_behavior": "answer_from_portfolio",
+    "required_keywords": ["iit madras", "data science"]
+  },
+  {
+    "id": "in_scope_02",
+    "question": "What is RedactVision Agent?",
+    "expected_behavior": "answer_from_portfolio",
+    "required_keywords": ["isro", "privacy", "browser"]
+  },
+  {
+    "id": "in_scope_03",
+    "question": "What did Afsar build at the Sudha Gopalakrishnan Brain Centre?",
+    "expected_behavior": "answer_from_portfolio",
+    "required_keywords": ["stroke2d", "mri", "histology"]
+  },
+  {
+    "id": "in_scope_04",
+    "question": "What is Afsar's GPA at IIT Madras?",
+    "expected_behavior": "answer_from_portfolio",
+    "required_keywords": ["8.05"]
+  },
+  {
+    "id": "in_scope_05",
+    "question": "What programming languages does Afsar know?",
+    "expected_behavior": "answer_from_portfolio",
+    "required_keywords": ["python", "javascript", "typescript"]
+  }
+]

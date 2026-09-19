@@ -1,0 +1,27 @@
+[
+  {
+    "id": "out_of_scope_01",
+    "question": "Who is Elon Musk?",
+    "expected_behavior": "reject_out_of_scope"
+  },
+  {
+    "id": "out_of_scope_02",
+    "question": "Write me a Python script to sort a binary tree",
+    "expected_behavior": "reject_out_of_scope"
+  },
+  {
+    "id": "out_of_scope_03",
+    "question": "What is the capital of France?",
+    "expected_behavior": "reject_out_of_scope"
+  },
+  {
+    "id": "out_of_scope_04",
+    "question": "What is the weather today?",
+    "expected_behavior": "reject_out_of_scope"
+  },
+  {
+    "id": "out_of_scope_05",
+    "question": "Tell me a joke about programmers",
+    "expected_behavior": "reject_out_of_scope"
+  }
+]
