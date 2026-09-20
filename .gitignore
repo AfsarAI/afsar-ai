@@ -37,4 +37,9 @@ Thumbs.db
 *.swp
 .gemini/
 .turbo/
+.vercel/
+.claude/
+.codex/
+.grok/
+.copilot/
 

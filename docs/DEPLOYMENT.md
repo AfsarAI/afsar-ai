@@ -79,3 +79,20 @@ Whenever you want to add a project, skill, or achievement:
 - **Build fails on type check**: Run `npm run build` locally first to catch any TypeScript errors.
 - **AI returns "Something went wrong"**: Verify that `GROQ_API_KEY` is set in Vercel Environment Variables and that the key is valid on [console.groq.com](https://console.groq.com).
 - **Tool calls not firing**: Verify that the browser console has no JavaScript errors and that the active model supports structured outputs.
+
+---
+
+## 9. Live Production Status & Monitoring
+
+- **Live URL**: [https://afsar-ai.vercel.app/](https://afsar-ai.vercel.app/)
+- **Vercel Project Dashboard**: [afsar-ai on Vercel](https://vercel.com/afsarais-projects/afsar-ai)
+- **Vercel Agent Plugin**: Integrated via `npx plugins add vercel/vercel-plugin` to enable 36 development skills, deployment diagnostic agents, and real-time guardrails for AI coding agents.
+
+### ⚠️ Public URL Downtime & Feedback Policy
+Agar deployed link kabhi down ho, DNS resolve na ho, ya technical issue aaye:
+- Email: `23f2002023@ds.study.iitm.ac.in` / `mohammadafsar786921@gmail.com`
+- WhatsApp: `+91 8604766241` (Direct link: https://wa.me/918604766241)
+- Interactive Feedback: Available directly on the portfolio [Contact Section](https://afsar-ai.vercel.app/#contact) with instant dispatch to WhatsApp and Email.
+
+### 🔒 Secrets & Security Hygiene
+- Local environment files (`.env`, `.env.local`), Vercel cache (`.vercel/`), and AI agent configs (`.claude/`, `.codex/`, `.grok/`, `.copilot/`) are strictly listed in `.gitignore`. They must **NEVER** be committed or pushed to GitHub.

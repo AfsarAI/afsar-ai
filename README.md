@@ -4,12 +4,37 @@
 [![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Deployment](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel)](https://afsar-ai.vercel.app/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Cost](https://img.shields.io/badge/Infrastructure_Cost-%E2%82%B90%2Fmonth-emerald?style=flat-square)](#cost-analysis)
 
+> 🚀 **Live Production Site**: [https://afsar-ai.vercel.app/](https://afsar-ai.vercel.app/)  
+> 📦 **GitHub Repository**: [https://github.com/AfsarAI/afsar-ai](https://github.com/AfsarAI/afsar-ai)
+
 A production-grade, AI-native interactive personal portfolio for **Mohd Afsar** (Data Science undergraduate at **IIT Madras**, Full Stack Intern at **SGBC Brain Centre**, and Lead AI Engineer for ISRO SIH Browser Agent **RedactVision**).
 
-Unlike conventional portfolios that slap a generic chatbot onto a static website, this platform fuses **grounded retrieval-augmented generation (RAG)**, **deterministic guardrails**, and an **agentic UI tool controller** with a modern, high-performance manual exploration interface.
+---
+
+## 🌐 Live Deployment & Community Feedback
+
+### 🚀 Production Status
+- **Live URL**: [https://afsar-ai.vercel.app/](https://afsar-ai.vercel.app/)
+- **Hosting Platform**: Vercel (Hobby Tier) with zero-cost edge distribution and automated CI/CD on every `git push`.
+- **AI Agent Integration**: Configured with the official [`vercel-plugin`](https://github.com/vercel/vercel-plugin) (`npx plugins add vercel/vercel-plugin`) for real-time Next.js and Vercel architecture validation.
+
+### ⚠️ Public URL Down or Link Not Working?
+Agar kabhi deployed link (`https://afsar-ai.vercel.app/`) open na ho, load hone mein issue aaye, ya public URL band dikhe, toh please turant notify karein taaki use quickly resolve kiya ja sake:
+- **Academic Email**: [23f2002023@ds.study.iitm.ac.in](mailto:23f2002023@ds.study.iitm.ac.in)
+- **Personal Email**: [mohammadafsar786921@gmail.com](mailto:mohammadafsar786921@gmail.com)
+- **WhatsApp / Direct Call**: [+91 8604766241](https://wa.me/918604766241)
+
+### 💬 Project Feedback & Suggestions
+Is project se related aapke paas koi bhi feedback, bug report, UI suggestion, ya collaboration idea ho, toh hamein zaroor batayein:
+1. **Interactive Feedback Form**: Website par directly [Contact & Feedback Section](https://afsar-ai.vercel.app/#contact) visit karein. Wahan category choose karke aap 1-click mein **WhatsApp** ya **Email** ke through feedback bhej sakte hain.
+2. **Direct Contact**: Upar diye gaye WhatsApp link ya emails par directly reach out kar sakte hain.
+
+### 🔒 Security & Secrets Hygiene
+- Sabhi private credentials (`.env`, `.env.local`), Vercel cache (`.vercel/`), aur AI agent tool configs (`.claude/`, `.codex/`, `.grok/`, `.copilot/`) [`.gitignore`](.gitignore) mein strictly protected hain aur kabhi bhi GitHub par commit nahi hote.
 
 ---
 
