@@ -51,7 +51,7 @@ You can reach me through either of the following channels:
 - Vercel configuration caches and local AI-agent configuration directories are excluded from version control.
 - API credentials are handled through server-side environment variables rather than exposed in client-side JavaScript.
 
-For additional details, see [SECURITY.md](SECURITY.md).
+For additional details, see [SECURITY.md](docs/SECURITY.md).
 
 ---
 
