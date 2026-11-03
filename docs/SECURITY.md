@@ -171,8 +171,8 @@ If you discover a security vulnerability or an unintended exposure of sensitive 
 **Security Contact:**  
 Mohd Afsar
 
-**Email:** [23f2002023@ds.study.iitm.ac.in](mailto:23f2002023@ds.study.iitm.ac.in)
-**Personal Email:** [mohammadafsar786921@gmail.com](mailto:mohammadafsar786921@gmail.com)
+- **Email:** [23f2002023@ds.study.iitm.ac.in](mailto:23f2002023@ds.study.iitm.ac.in)
+- **Personal Email:** [mohammadafsar786921@gmail.com](mailto:mohammadafsar786921@gmail.com)
 
 Please include:
 
